@@ -11,9 +11,9 @@ for (int j = 1; j<=10; j++)
     Console.WriteLine(j * 3);
 }*/
 // Szorzás
-
-
+/*
 for (int k = 1; k <10; k++)
 {
     Console.WriteLine(k + " x 1 = " + k);
 }
+*/
